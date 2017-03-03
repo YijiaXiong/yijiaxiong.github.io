@@ -32,8 +32,8 @@ This picture show the detection subsystem.
 One the top was the collimator for the laser optical fiber. The fluorescence was collected by the 
 microscope and coupled into the orange multimode optical fiber. The fiber was then collimated and 
 sent to a beam splitter selector (either 50/50 splitter for single color FCS or dichroic for 
-cross-correlation experiment). Afther that the fluorescence was detected by a pair of SPCM-AQR-14
-avalanche photodiodes(APDs) The output was fed into a Flex01-05D multi-tau correlator.
+cross-correlation experiment). After that the fluorescence was detected by a pair of SPCM-AQR-14
+avalanche photodiodes(APDs). The output was fed into a Flex01-05D multi-tau correlator.
 
 ## Software
 The program was written in VB6. It can set all the parameters for the data acquisition, control

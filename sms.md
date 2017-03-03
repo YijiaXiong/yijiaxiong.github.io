@@ -1,4 +1,4 @@
-# Single Molecule Fluorescence Microscope System
+# Single Molecule Spectroscopy System
 I built a single molecule fluorescence microscopy system, including setting up the hardware and 
 writting all the programs to collect and analyze the data. 
 ## Hardware
