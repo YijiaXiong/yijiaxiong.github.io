@@ -4,7 +4,7 @@
 * [Strong Field Ionization Time-of-Flight System](tof)
 * [Single Molecule Spectroscopy](sms)
 * [Fluorescence Correlation Spectroscopy](fcs)
-* [Laser Induced Fluorescence(LIF) Detection System](lif)
+* [Laser Induced Fluorescence Detection System](lif)
 
 ## Protein Structure
 
