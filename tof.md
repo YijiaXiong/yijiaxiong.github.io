@@ -11,3 +11,9 @@ The control program was written in Borland C++ and run under DOS enviroment. Tim
 spectroscopy required a high speed data acquisition card which took over all the resource of the 
 computer. So... sorry, no TSR program (terminate and stay resident program) and no screenshots 
 is available for this system.
+### Sample Result (from my thesis)
+A few representive mass spectra of Acetonitrile under different strong-field caused by femtosecond laser.
+![Acn](figs/acn.png)
+
+The simulated result calculated by my program fit the experimental data very well.
+![Ketones](figs/ketones.png)

@@ -53,3 +53,13 @@ provided a straightforward workflow. A result can be got with just a few mouse c
 ![Fitall4](images/fitall4.PNG)
 Another program was written in VB.net to organize and analyze the data of FCS experiments:
 ![Fcsdata](images/fcsdata.PNG)
+
+## Sample Result
+The sample result figures from my paper:
+
+Xiong, Y.; et.al. *High-Affinity and Cooperative Binding of Oxidized Calmodulin by Methionine 
+Sulfoxide Reductase.* **Biochemistry** 2006, 45, (49), 14642-14654.
+The top figure shows the fluorescence correlation curves of a protein oxidized Calmodulin binding 
+to various concentration of another protein, Methionine Sulfoxide Reductase. The bottom figure shows 
+the binding curve and fitting. 
+![MsrA](figs/msrA.png)
