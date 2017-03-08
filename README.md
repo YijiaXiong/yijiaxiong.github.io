@@ -1,3 +1,5 @@
 # Dr. Xiong's Website
 
-I have studied and worked in multiple disciplines including phisical chemistry, biophysics and biochemistry. I also wrote programs for data acquisition and data analysis. The unique combination of different expertise make me an excellent asset of companies that has a multiple discipline working environment.
+I have worked in the intersection of multiple disciplines including physical chemistry, biophysics and biochemistry. I also wrote programs 
+for data acquisition and data analysis. This unique combination of expertise make me an excellent asset of companies that is seeking for 
+a candidate to work in a multiple discipline environment.
