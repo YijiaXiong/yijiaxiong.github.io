@@ -1,6 +1,6 @@
 # Visualization of Proteins
 
-Here is a gallery of the visualization of some proteins I have studied. The visualization was created by using either Pymol or Swiss PDB viewer. Some structures were exported as POV model and further rendered with ray tracing program POVRay.
+Below are the structure of some proteins I have studied. The visualization was created by either Pymol or Swiss PDB viewer. Some structures were exported as POV model and further rendered with the ray tracing program POVRay.
 
 #### Cartoon Model of Calmodulin binding to Calcium
 Calmodulin was shown as a cartoon model with Ca2+ ions shown as grey spheres.
