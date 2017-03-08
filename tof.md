@@ -12,5 +12,5 @@ The amplified femtosecond laser system was kept in a cleanroom.  Laser beam was 
 A few representive mass spectra of Acetonitrile under different strong-field caused by femtosecond laser.
 ![Acn](figs/acn.png)
 
-The simulated result calculated by my program showed a good fit of the experimental data.
+A transfer matrix algorithm was used to simulate the result. The program was also written in Borland C++. The simulated curve fitted the experimental data well.
 ![Ketones](figs/ketones.png)
