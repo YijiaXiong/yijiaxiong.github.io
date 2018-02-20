@@ -8,11 +8,5 @@ A more powerful system was also built. This system has multiple lasers installed
 Here is a close-up of the setup.
 ![LIFpro close-up](instruments/minilifpro3.JPG)
 ## Software
-The software was written in VB.net. Here is a screenshot of the primary software:
+The system is still under development. Here is a screenshot of the primary software:
 ![LIF program](images/yxLiFpro.png)
-## Connect to Smart Phone
-A LIF prototype with the capability of sending reading result to a smart phone was developed. The system is webpage based, so users can use any smart phone to connect to the device, control the on/off of the laser and  start the reading process. Then the result will be returned to the phone. This capability is enssential for a POC device to report detected positive case to the disease control center. The disease control center then will have the realtime data to monitor the epidemiological distribution of given disease.
-![The device prototype](instruments/rpi1.jpg)
-Here are the screenshots of the app on an iphone:
-![Screenshot1](images/rpi1.PNG)
-![Screenshot2](images/rpi2.PNG)
