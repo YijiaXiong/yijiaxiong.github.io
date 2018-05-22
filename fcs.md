@@ -19,7 +19,7 @@ The microscope was a Nikon TE300 with a 100Xobjective lens(S Fluo100, Nikon). Th
 This picture show the detection subsystem.
 ![Fcs1](instruments/fcs1.JPG)
 
-One the top was the collimator for the laser optical fiber. The fluorescence was collected by the microscope and coupled into the orange multimode optical fiber. The fiber was then collimated and sent to a beam splitter selector (either 50/50 splitter for single color FCS or dichroic for cross-correlation experiment). After that the fluorescence was detected by a pair of SPCM-AQR-14 avalanche photodiodes(APDs). The output was fed into a Flex01-05D multi-tau correlator.
+On the top-left corner was the collimator for the laser optical fiber. Collimated laser was coupled into the microscope and the fluorescence was collected by the objective and coupled into the orange multimode optical fiber. The fiber collector locates at the left side of the microscope. Fluourescence was sent through the optical fiber to a beam splitter selector (either 50/50 splitter for single color FCS or dichroic for cross-correlation experiment). After that the fluorescence was detected by a pair of SPCM-AQR-14 avalanche photodiodes(APDs). The output was fed into a Flex01-05D multi-tau correlator.
 
 ## Software
 The program was written in VB6. It can set all the parameters for the data acquisition, control the microplate stage and display the correlation curve in real time. Here is a screenshot of the program running an experiment:
@@ -27,7 +27,7 @@ The program was written in VB6. It can set all the parameters for the data acqui
 
 #### The interface for microplate well setting.
 ![Setwell](images/setwell.PNG)
-For a typical binding affinity measurement, a program was written to ease the hassle of using matlab or R to do the data analysis. Here the program integrated the calling to matlab or R script and  provided a straightforward workflow. A result can be got with just a few mouse click.
+A program was written to ease the hassle of using matlab or R to do the data analysis. This program runs separately from data acquisition program, thus the data analysis could be done on any computer. For a typical binding affinity measurement, the program integrated the matlab or R script and  provided a straightforward workflow. A result can be got with just a few mouse clicks.
 
 #### Overlap all fcs curves
 ![Fitall1](images/fitall1.PNG)
@@ -41,8 +41,7 @@ Another program was written in VB.net to organize and analyze the data of FCS ex
 ![Fcsdata](images/fcsdata.PNG)
 
 ## Sample Result
-The sample result figures from my paper:
-
+The figures were extracted from my paper:
 Xiong, Y.; et.al. *High-Affinity and Cooperative Binding of Oxidized Calmodulin by Methionine Sulfoxide Reductase.* **Biochemistry** 2006, 45, (49), 14642-14654.
 The top figure shows the fluorescence correlation curves of a protein oxidized Calmodulin binding to various concentration of another protein, Methionine Sulfoxide Reductase. The bottom figure shows the binding curve and fitting. 
 ![MsrA](figs/msrA.png)
