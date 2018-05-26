@@ -27,6 +27,7 @@ The program was written in VB6. It can set all the parameters for the data acqui
 
 #### The interface for microplate well setting.
 ![Setwell](images/setwell.PNG)
+
 A program was written to ease the hassle of using matlab or R to do the data analysis. This program runs separately from data acquisition program, thus the data analysis could be done on any computer. For a typical binding affinity measurement, the program integrated the matlab or R script and  provided a straightforward workflow. A result can be got with just a few mouse clicks.
 
 #### Overlap all fcs curves
