@@ -2,10 +2,10 @@
 
 ## Instrumentation
 
-* [Strong Field Ionization Time-of-Flight System](tof)
+* [Laser Induced Fluorescence Detection System](lif)
 * [Single Molecule Spectroscopy](sms)
 * [Fluorescence Correlation Spectroscopy](fcs)
-* [Laser Induced Fluorescence Detection System](lif)
+* [Strong Field Ionization Time-of-Flight System](tof)
 
 ## Protein Structure
 
