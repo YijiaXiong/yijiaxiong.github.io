@@ -9,7 +9,8 @@ The DLS system is divided into tow subsystems: laser scattering subsystem and de
 A rule was included when the picture was taken. It is a very compact system built around a cuvette holder.
 
 This picture show the detection subsystem. It is comprised of optical fiber coupler, beam splitter and two avalanche diodes. Two avalanche diodes were used to avoid the afterpulse effect of the detection.
-![DLS detection system ](images/dls2.JPG)
+
+![DLS detection system ](images/dls2.jpg)
 
 ## Software
 The gui of the software is straightforward and self-explained. 
