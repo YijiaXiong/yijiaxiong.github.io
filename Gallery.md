@@ -5,6 +5,7 @@
 * [Laser Induced Fluorescence Detection System](lif)
 * [Single Molecule Spectroscopy](sms)
 * [Fluorescence Correlation Spectroscopy](fcs)
+* [Dynamic Light Scattering](dls)
 * [Strong Field Ionization Time-of-Flight System](tof)
 
 ## Protein Structure
