@@ -13,7 +13,7 @@
 * [Protein Structure Visualization](proteinstructure)
 * [Homology Modeling of Single-Chain Antibody](scFv)
 
-## Miscellania
+## Miscellanea
 
 * [3D Printed Protein Structures](3dprint)
 * [Gatling Laser Gun](https://www.youtube.com/watch?v=2Anio3egzNw)
