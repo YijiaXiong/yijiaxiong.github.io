@@ -1,34 +1,33 @@
 # Fluorescence Correlation Spectroscopy System
-Fluorescence correlation spectroscopy (FCS)  is a correlation analysis of fluctuation of the fluorescence intensity. The analysis provides physical chemical parameters of the fluorphores. 
-In biochemical research, they are often either a protein fused to a fluorescent protein or a fluorescent dye labeled biomolecules (protein, DNA/RNA, etc.). This FCS setup, both hardware and software, was initially built for single sample measurement. Later it was upgraded to include an automated stage. This enabled the system to measure samples in microplate automatically. 
-I also wrote the program to analyze the result of multiwell measurement.
+Welcome to the world of Fluorescence Correlation Spectroscopy (FCS), a sophisticated analysis technique that explores the fluctuations in fluorescence intensity. This technique serves as a gateway to unraveling the physical and chemical properties of molecules. In the realm of biochemical research, FCS finds its prowess in studying protein-fused fluorescent proteins and fluorescent dye-labeled biomolecules such as proteins and DNA/RNAs. Our FCS system, built by me in both hardware and software, began as a simple single-sample setup and evolved into a versatile platform equipped with an automated stage, enabling microplate measurements. Allow me to guide you through the intricacies of our FCS system:
+
 ## Hardware
-The FCS system is based on a Nikon TE300 inverted microscope. I divided the system into three subsystems: laser launch subsystem, inverted microscope and detection subsystem. These subsystems were connected through optical fiber. This way the subsystem were only loosely coupled. Thus they can be aligned separately and troubleshooting was much easier. Here is the overview of the setup. Notice 
-the controllers on the roof shelf.
+Our FCS system is built around a Nikon TE300 inverted microscope, roughly divided into three subsystems: the laser launch subsystem, the inverted microscope, and the detection subsystem. These subsystems are linked by an optical fiber, ensuring a flexible and efficient setup. This modularity allows for independent alignment and troubleshooting, enhancing the overall robustness of the system. Behold an overview of our setup, complete with controllers adorning the roof shelf.
 
 ### Laser Launcher
-Three laser was include in the laser launcher system: a 532nm Diode pumped solid state laser, a 632nm He-Ne laser and an air-cooled multiline Argon laser (major laser lines include 488nm and 514nm). With a combination of mirrors, prism, beam splitters and flip-flop mounts, I can manually choose any one of the four lasers, direct it into the optical fiber launcher and couple the very same single mode
-optical fiber, which transmits the laser to the microscope. This picture show the optics with all lasers turned on.
+The laser launcher system boasts three lasers: a 532nm Diode-pumped solid-state laser, a 632nm He-Ne laser, and a multi-line Argon laser (with major lines at 488nm and 514nm). Through an intricate assembly of mirrors, prisms, beam splitters, and flip-flop mounts, I've built the system that allows manual selection of any of the four lasers. The laser is then coupled into the optical fiber, and connects to the microscope. The image below showcases the optics with all lasers illuminated, exemplifying the beauty of precision engineering.
+
 ![Fcs Launcher](instruments/fcs-launcher.JPG)
 
 ### Microscope
-The microscope was a Nikon TE300 with a 100Xobjective lens(S Fluo100, Nikon). The stage was upgraded to a LUDL automatic microplate stage. This stage can be controlled by computer through RS232 communication.
+Our microscope, the Nikon TE300, stands adorned with a 100X objective lens (S Fluo100, Nikon). A notable upgrade involves the integration of a LUDL automatic microplate stage, which is computer-controlled through RS232 communication.
+
 ![Fcs2](instruments/fcs2.JPG)
 
 ### Detection Subsystem
-This picture show the detection subsystem.
+The heart of our detection subsystem is shown in this image.
 ![Fcs1](instruments/fcs1.JPG)
 
-On the top-left corner was the collimator for the laser optical fiber. Collimated laser was coupled into the microscope and the fluorescence was collected by the objective and coupled into the orange multimode optical fiber. The fiber collector locates at the left side of the microscope. Fluourescence was sent through the optical fiber to a beam splitter selector (either 50/50 splitter for single color FCS or dichroic for cross-correlation experiment). After that the fluorescence was detected by a pair of SPCM-AQR-14 avalanche photodiodes(APDs). The output was fed into a Flex01-05D multi-tau correlator.
+In the top-left corner, you'll discover the collimator for the laser optical fiber, orchestrating the passage of collimated laser light into the microscope. The fluorescence, collected through the objective lens, is coupled into the orange multimode optical fiber and then sent through the optical fiber to a beam splitter selector (either 50/50 splitter for single color FCS or dichroic for cross-correlation experiment). A pair of SPCM-AQR-14 avalanche photodiodes(APDs) are used to detect the fluorescence and the output signals are fed into a Flex01-05D multi-tau correlator.
 
 ## Software
-The program was written in VB6. It can set all the parameters for the data acquisition, control the microplate stage and display the correlation curve in real time. Here is a screenshot of the program running an experiment:
+The program was written in VB6. This program orchestrates parameter configuration for data acquisition, microplate stage control, and real-time correlation curve visualization. A couple of snapshots of this software in action are presented below:
+
 ![Corr](images/corr.PNG)
 
 #### The interface for microplate well setting.
 ![Setwell](images/setwell.PNG)
-
-A program was written to ease the hassle of using matlab or R to do the data analysis. This program runs separately from data acquisition program, thus the data analysis could be done on any computer. For a typical binding affinity measurement, the program integrated the matlab or R script and  provided a straightforward workflow. A result can be got with just a few mouse clicks.
+Furthermore, I write another program written in MATLAB or R for data analysis. This program operates independently, allowing data analysis for binding affinity measurement. The main program integrates the scripts, simplifying the workflow and enabling quick results through just a few clicks.
 
 #### Overlap all fcs curves
 ![Fitall1](images/fitall1.PNG)
@@ -38,11 +37,14 @@ A program was written to ease the hassle of using matlab or R to do the data ana
 
 #### Generate the binding curve and fit it with two models for selection
 ![Fitall4](images/fitall4.PNG)
-Another program was written in VB.net to organize and analyze the data of FCS experiments:
+
+Yet another VB.net program was written to organize and analyze the FCS experiment data:
 ![Fcsdata](images/fcsdata.PNG)
 
+
 ## Sample Result
-The figures were extracted from my paper:
-Xiong, Y.; et.al. *High-Affinity and Cooperative Binding of Oxidized Calmodulin by Methionine Sulfoxide Reductase.* **Biochemistry** 2006, 45, (49), 14642-14654.
-The top figure shows the fluorescence correlation curves of a protein oxidized Calmodulin binding to various concentration of another protein, Methionine Sulfoxide Reductase. The bottom figure shows the binding curve and fitting. 
+Allow me to present the fruits of our labor, extracted from my publication:
+*Xiong, Y.; et al. High-Affinity and Cooperative Binding of Oxidized Calmodulin by Methionine Sulfoxide Reductase. Biochemistry 2006, 45, (49), 14642-14654.*
+
+The upper figure shows a group of the fluorescence correlation curves of one protein, oxidized Calmodulin, binding to various concentrations of another protein, Methionine Sulfoxide Reductase. The lower figure shows the binding curve and fitting. 
 ![MsrA](figs/msrA.png)

@@ -1,5 +1,5 @@
 # Strong Field Ionization Time-of-Flight System
-This system was built to study the strong field the ionization of molecules under strong field created by femtosecond laser. The system was based on a home-built time-of-flight mass spectrometer. The control program was written in Borland C++ and run under DOS enviroment. 
+This system was built to study the strong field the ionization of molecules under strong field created by femtosecond laser when I was a Ph.D. candidate. The system was based on a home-built time-of-flight mass spectrometer. The control program was written in Borland C++ and run under DOS enviroment. 
 
 Here is the mass spectrometer:
 

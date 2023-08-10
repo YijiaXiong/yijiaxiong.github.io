@@ -4,7 +4,7 @@ A single-chain variable fragment (scFv) is a fusion protein of the variable regi
 
 We have created a few scFvs for our research project. However their crystal structures were not available. Instead, homology modeling was used to create structures for them.
 
-#### Homology structure of scFv against TNT 
+#### Homology structure of scFv binding against TNT 
 Here is the structure of TNT-scFV binding to a fluorescent TNT analog, TNB-Alexa488. The TNT analog was shown as stick model.
 
 ![ScFv-TNB-AF488](Proteins/scFv03-TNBAF488.png)
