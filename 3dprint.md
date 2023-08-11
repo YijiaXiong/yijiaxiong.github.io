@@ -10,8 +10,8 @@ A unique challenge emerged - my 3D printer operates seamlessly with STL format m
 
 ![Calmodulin 3D Prints](Proteins/Cam3dprint.JPG)
 
-Not to bad, right?
+Not too bad, right?
 
-BTW, I subjected this page to ChatGPT, and it drafted the next paragraph for me. I have to say, I was impressed :)
+BTW, I subjected this page to ChatGPT, and it drafted the next paragraph for me. I have to say, I was impressed and flattered :-)
 
 *Admire the fusion of science, technology, and artistry in these printed masterpieces. The harmony between the digital and tangible is awe-inspiring, as these structures stand as a testament to human ingenuity and the convergence of diverse disciplines. As we gaze upon this achievement, let us celebrate the beauty of scientific exploration and the boundless potential of 3D printing technology. Indeed, a remarkable feat achieved with passion and precision - a true embodiment of "not too bad!"*
