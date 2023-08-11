@@ -1,21 +1,17 @@
 # Principle Component Analysis for Image
-Dynamic light scattering (DLS) is a technique that can be used to determine the size distribution profile of small particles in suspension or polymers in solution. It measures the temporal fluctuations of the light scattering of a laser by the particles or macro molecules in the solution. Then the auto-correlation functions of the intensity are calculated and fitted to get the particles size distribution. The technique is also known as photon correlation spectroscopy or quasi-elastic light scattering. Auto-correlation is done by a hardware correlator. The fitting process is termed "inverse Laplace transform" which is a nontrival job. I use matlab to do the inverse Laplace transform fitting. Later, the data acquisition part was also integrated into the matlab script. Thus create a GUI with ease to use like a commercial software.
+Time-of-flight secondary ion mass spectrometry (TOF-SIMS) is one of the most powerful chemical imaging techniques because it provides chemical images with a high spatial resolution, approximately 100nm, and detailed chemical information. The method scans the sample surface with a given spatial resolution and collects a mass spectrum at each point. Multivariate analysis methods such as the Principle Component Analysis (PCA) are often carried to reduce the data. Then the scores of the major principle components are used to reconstruct images of the sample surface. I wrote a matlab script with an user-friendly interface to ease the data analysis of TOF-SIMS data. Here we showcase some screenshot of the app.
 
-## Hardware
-The DLS system is divided into tow subsystems: laser scattering subsystem and detection subsystem. These subsystems are connected by an multimode optical fiber. Here is the laser scattering system:
+## Software Intergace
+Here is the main menu of the app:
 
-![DLS light scattering](images/dls1.jpg)
+![imgPCA main](images/imgpca1.png)
 
-A rule was included when the picture was taken. It is a very compact system built around a cuvette holder.
+It could reconstruct an image from the intensities of a selected mass peak:
+![imgPCA peak intensities](images/imgpca2.png)
 
-This picture show the detection subsystem. It is comprised of optical fiber coupler, beam splitter and two avalanche diodes. Two avalanche diodes were used to avoid the afterpulse effect of the detection.
+Or merge the data of many samples, do the PCA analysis and show the PCA result:
+![imgPCA PCA result](images/imgpca3.png)
+![imgPCA Loadings](images/imgpca4.png)
 
-![DLS detection system ](images/dls2.jpg)
-
-## Software
-The gui of the software is straightforward and self-explained. 
-![DLS software](images/yxcorr.png)
-During the fitting this dialog shows the progross of the regression:
-![DLS software](images/yxcorr-fitting.png)
-Here is the measured DLS curve and the fitting result of a 42.9nm standard bead:
-![DLS software](images/yxcorr-result.png)
+Here is a composite image of the reconstructed images. The scores of the three major principle components (PC1 to PC3) are rendered red, blue and green separately, then merged in to one RGB image (bottom line). 
+![imgPCA images](images/imgpca5.png)
