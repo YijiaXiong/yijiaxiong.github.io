@@ -1,16 +1,15 @@
 # SUMMARY
-Research Assistant Professor and Instrumentation Design Lead focused on developing and supporting analytical capabilities centered on advanced microscopy, protein purification, and point-of-care diagnostics.
+Highly accomplished Research Assistant Professor with expertise in advanced microscopy, biophysics, and biochemistry. Proven ability to design and develop innovative experimental methods. Skilled in programming languages and software development for data analysis using machine learning and deep learning techniques.
 
-EXPERTISE:  
-
-* Development and application of affinity, spectroscopic, and computational tools for high-throughput identification of protein functional changes and protein-protein interaction networks within living cells.
-* Instrumentation and computer interface software development, including mass spectrometry and optical detection platforms for high-throughput measurements of binding affinities and target validation.
-* Standard molecular biology and protein purification capabilities, including use of FPLC, HPLC, PAGE, and Western immunoblotting.
-* Programming, including data/image acquisition in Visual C++, VB.net, Matlab, R, and python.
+##EXPERTISE:  
+* Instrument design and experimental method development in biophysics and biochemistry, including advanced fluorescence spectroscopy and microscopy, laser-induced optical detection platforms, etc.
+* Development of morpholino-based colorimetric and fluorescent Lateral Flow Assay.
+* Designing and developing experimental methods in biochemistry and biophysics, such as affinity, spectroscopic, and computational tools for high-throughput identification of protein functional changes and protein-protein.
+* Software development for data acquisition and analysis using machine learning and deep learning.
+* Proficient in various languages including Python, Visual C++, VB.NET, MATLAB, R, etc.
 
 ## EDUCATION
 **Ph.D.** Chemistry, Institute of Chemistry, Chinese Academy of Sciences, Beijing, China 1994-2000
-
 **B.S.** Chemical Physics, University of Science and Technology of China, Hefei, China 1989-1994
 
 ## APPOINTMENTS
@@ -24,19 +23,34 @@ EXPERTISE:
  
 ## PROFESSIONAL EXPERIENCE
 
-* Took part in the development of an ultrafast time-resolved fluorescence depletion system. Studied the ultrafast vibrational relaxation and the solvation effect of some fluorescent dyes.  
-* Studied the ionization of molecules under strong field created by femtosecond laser. Built the experimental setup which included an amplified femtosecond laser system and a home-built time of flight mass spectrometer. Wrote the program for the experimental system with C++.
-* Developed a theoretical model of tunneling ionization to analyze the strong field ionization data. Extended the transfer matrix method to calculate the tunneling ionization probability of molecules. Proposed and implemented the algorithm in C++ language.
-* Built a confocal far-field single molecule fluorescence microscope system for measurements of protein dynamics.
-* Developed cell permeable reagents permitting validation of protein-protein interactions within living cells. Multiple bi-Arsenical dyes, including AsCy3, AsCy5, AsCy3 ester and AsCy3Cy5, have been developed which were directed to different small binding motif build into proteins. The discovery of Cy3-based biarsenical fluorescent probe AsCy3 was highlighted by Nature (Game of tag, Vol 448, Page 4, 2007).
-* Developed biochemical applications and methods for these dyes, including in vivo protein labeling and imaging, membrane protein turn-over and super-resolution imaging.
-* Created capability for the purification and functional assay of anaerobic proteins (i.e., hydrogenases and nitrogenases) as part of a multi-disciplinary Basic Energy Sciences (BES) project supported by the Department of Energy.
-* Maintained microscopy facility and created capabilities for high-throughput assays of protein binding affinities and function. Developed the fluorescence correlation spectroscopy system and used it to study the high-affinity binding and direct electron transfer from a bacteria's (Shewanella oneidensis MR-1) outer membrane protein OmcA to a mineral form of iron oxide. It was the first report of direct electron transfer from protein to solid metal oxide. The result indicated the potential application of the purified protein in the construction of a biofuel cell and has been cited more than 150 times.
+### Research Assistant Professor at Western University of Health Sciences (Lebanon, OR)
 * Instrumentation design lead responsible for development and maintenance of core capabilities associated with molecular biology, protein purification, and instrumentation.  Includes staff training and assistance in applications involving biomaterial assembly, protein stabilization, and development of diagnostic applications linked to pathogen detection.
 * Team lead in development of industrial collaborations involving creation of RNA capture technology for array detection of cancer biomarkers.  
+* Collaborated with an industrial company (Gene Tools, LLC) in creating morpholino-based RNA capture technology for the detection of pathogen and cancer biomarkers. A lateral flow assay has been developed. A prototype for detection based on laser-induced fluorescence has been developed as well, and the photo of the instrument was included in the research gallery (https://yijiaxiong.github.io/lif). 
+* Investigated protein stabilization in confined biomaterials, including protein-based hydrogel and engineered diatoms biosilica matrix.
+
+### Research Scientist, Battelle (Richland, WA)
+* Pioneered microscopy system for single molecule detection and super-resolution imaging.
+* Developed cell permeable reagents permitting validation of protein-protein interactions within living cells. Multiple bi-Arsenical dyes, including AsCy3, AsCy5, AsCy3 ester and AsCy3Cy5, have been developed which were directed to different small binding motif build into proteins. The discovery of Cy3-based biarsenical fluorescent probe AsCy3 was highlighted by Nature (Game of tag, Vol 448, Page 4, 2007).
+* Developed biochemical applications and methods for these dyes, including in vivo protein labeling and imaging, membrane protein turn-over and super-resolution imaging.
+* Developed fluorescence correlation spectroscopy (FCS) for high-throughput protein binding affinity and function assays, utilizing the Inverse Laplace Transform method for size distribution resolution.
+* Created instrumental and computational tools for high-throughput identification of protein functional changes and protein-protein interaction networks within living cells.
+* Applied machine learning and deep learning algorithms to advance chemical imaging analysis in Fourier-transform infrared (FTIR) and Raman spectroscopy, as well as time-of-flight secondary ion mass spectrometry (TOF-SIMS).
 * Team lead in developing capability to identify structural correlations between FT-IR and time-of-flight secondary ion mass spectrometry (TOF-SIMS) data to identify biomarkers linked to Gorlin syndrome.
-* Identified structure/function relationships associated with membrane protein function and the regulation of protein degradation by the proteasome.  
-* Took part in the study of biofilm. Applied multivariant analysis and machine learning algorithm on Time-of-Flight Secondary Ion Mass Spectrometry (TOF-SIMS) data and Fourier Transform Infrared (FTIR) spectroscopy data. For TOF-SIMS data, image reconstruction was also involved. The program languages used included Matlab, R and python.
+* Established protocols for purification and functional assay of anaerobic proteins in support of a multi-disciplinary Basic Energy Sciences (BES) project funded by the Department of Energy.
+* Managed instrument operation and maintenance as the cognizant space manager in the Biological Science Facility. 
+
+### Postdoctoral Fellow, Dept. of Biomolecular Sciences, Univ. of Kansas (Lawrence, KS)	
+* Developed a confocal far-field single-molecule fluorescence microscope system for protein dynamics measurements.
+* Conducted chemical kinetics simulations to identify structure/function relationships associated with membrane protein function and regulation of protein degradation by the proteasome.  
+
+### Doctoral Candidate, Institute of Chemistry, Chinese Academic of Science (Beijing, China)
+* Took part in the development of an ultrafast time-resolved fluorescence depletion system. Studied the ultrafast vibrational relaxation and the solvation effect of some fluorescent dyes.  
+* Built a time-of-flight mass spectrometer to study the tunneling ionization of molecules under the ultra-intense laser. Studied the ionization of molecules under strong field created by femtosecond laser. 
+* Developed a theoretical model of tunneling ionization to analyze the strong field ionization data. Extended the transfer matrix method to calculate the tunneling ionization probability of molecules. 
+* Implemented the matrix transfer algorithm for the calculation of tunneling ionization probability.
+
+
 
 ## Selected Publication (out of 40+)
 1. Xiong Y., Ford, N. R.; Hecht, K. A.; Roesijadi, G.; Squier, T. C., Hydrogel Tethering Enhances Interdomain Stabilization of Single-Chain Antibodies, Bioconjugate Chemistry, 2017, 28 (11), 2804–2814
