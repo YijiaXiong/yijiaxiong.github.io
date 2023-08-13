@@ -1,7 +1,7 @@
 # SUMMARY
 Highly accomplished Research Assistant Professor with expertise in advanced microscopy, biophysics, and biochemistry. Proven ability to design and develop innovative experimental methods. Skilled in programming languages and software development for data analysis using machine learning and deep learning techniques.
 
-##EXPERTISE:  
+## EXPERTISE:  
 * Instrument design and experimental method development in biophysics and biochemistry, including advanced fluorescence spectroscopy and microscopy, laser-induced optical detection platforms, etc.
 * Development of morpholino-based colorimetric and fluorescent Lateral Flow Assay.
 * Designing and developing experimental methods in biochemistry and biophysics, such as affinity, spectroscopic, and computational tools for high-throughput identification of protein functional changes and protein-protein.
@@ -31,24 +31,25 @@ Highly accomplished Research Assistant Professor with expertise in advanced micr
 
 ### Research Scientist, Battelle (Richland, WA)
 * Pioneered microscopy system for single molecule detection and super-resolution imaging.
-* Developed cell permeable reagents permitting validation of protein-protein interactions within living cells. Multiple bi-Arsenical dyes, including AsCy3, AsCy5, AsCy3 ester and AsCy3Cy5, have been developed which were directed to different small binding motif build into proteins. The discovery of Cy3-based biarsenical fluorescent probe AsCy3 was highlighted by Nature (Game of tag, Vol 448, Page 4, 2007).
+* Developed cell permeable reagents permitting validation of protein-protein interactions within living cells. Multiple bi-Arsenical dyes, including AsCy3, AsCy5, AsCy3 ester and AsCy3Cy5, have been developed which were directed to different small binding motif build into proteins. The discovery of Cy3-based biarsenical fluorescent probe AsCy3 was highlighted by Nature (Game of tag, Vol 448, Page 4, 2007). Here is the [link to the paper](https://pubs.acs.org/doi/10.1021/ja070003c). [AsCy3Cy5 enables super-resolution imaging](https://pubs.acs.org/doi/10.1021/ja308503x).
 * Developed biochemical applications and methods for these dyes, including in vivo protein labeling and imaging, membrane protein turn-over and super-resolution imaging.
-* Developed fluorescence correlation spectroscopy (FCS) for high-throughput protein binding affinity and function assays, utilizing the Inverse Laplace Transform method for size distribution resolution.
+* Developed fluorescence correlation spectroscopy (FCS) for high-throughput protein binding affinity and function assays, utilizing the Inverse Laplace Transform method for size distribution resolution. Some results are shown [here.](fcs)
 * Created instrumental and computational tools for high-throughput identification of protein functional changes and protein-protein interaction networks within living cells.
-* Applied machine learning and deep learning algorithms to advance chemical imaging analysis in Fourier-transform infrared (FTIR) and Raman spectroscopy, as well as time-of-flight secondary ion mass spectrometry (TOF-SIMS).
-* Team lead in developing capability to identify structural correlations between FT-IR and time-of-flight secondary ion mass spectrometry (TOF-SIMS) data to identify biomarkers linked to Gorlin syndrome.
+* Applied machine learning and deep learning algorithms to advance chemical imaging analysis in Fourier-transform infrared (FTIR) and Raman spectroscopy, as well as time-of-flight secondary ion mass spectrometry (TOF-SIMS). Here showcases the [Data Analysis Software for Time-of-flight secondary ion mass spectrometry (TOF-SIMS)](imgPCA).
 * Established protocols for purification and functional assay of anaerobic proteins in support of a multi-disciplinary Basic Energy Sciences (BES) project funded by the Department of Energy.
 * Managed instrument operation and maintenance as the cognizant space manager in the Biological Science Facility. 
 
 ### Postdoctoral Fellow, Dept. of Biomolecular Sciences, Univ. of Kansas (Lawrence, KS)	
 * Developed a confocal far-field single-molecule fluorescence microscope system for protein dynamics measurements.
 * Conducted chemical kinetics simulations to identify structure/function relationships associated with membrane protein function and regulation of protein degradation by the proteasome.  
+* [Single Molecule Spectroscopy @ KU](sms)
 
 ### Doctoral Candidate, Institute of Chemistry, Chinese Academic of Science (Beijing, China)
 * Took part in the development of an ultrafast time-resolved fluorescence depletion system. Studied the ultrafast vibrational relaxation and the solvation effect of some fluorescent dyes.  
 * Built a time-of-flight mass spectrometer to study the tunneling ionization of molecules under the ultra-intense laser. Studied the ionization of molecules under strong field created by femtosecond laser. 
 * Developed a theoretical model of tunneling ionization to analyze the strong field ionization data. Extended the transfer matrix method to calculate the tunneling ionization probability of molecules. 
 * Implemented the matrix transfer algorithm for the calculation of tunneling ionization probability.
+* [Showncase the Strong Field Ionization Time-of-Flight System](tof)
 
 
 

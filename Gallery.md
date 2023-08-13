@@ -3,12 +3,12 @@
 ## Instrumentation
 
 * [Laser Induced Fluorescence Detection System](lif)
-* [Single Molecule Spectroscopy](sms)
+* [Single Molecule Spectroscopy @ KU](sms)
 * [Fluorescence Correlation Spectroscopy](fcs)
 * [Dynamic Light Scattering](dls)
 * [Strong Field Ionization Time-of-Flight System](tof)
 
-## Software
+## Data Analysis
 
 * [Data Analysis Software for Time-of-flight secondary ion mass spectrometry (TOF-SIMS)](imgPCA)
 
