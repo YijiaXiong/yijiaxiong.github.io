@@ -26,7 +26,7 @@ Highly accomplished Research Assistant Professor with expertise in advanced micr
 ### Research Assistant Professor at Western University of Health Sciences (Lebanon, OR)
 * Instrumentation design lead responsible for development and maintenance of core capabilities associated with molecular biology, protein purification, and instrumentation.  Includes staff training and assistance in applications involving biomaterial assembly, protein stabilization, and development of diagnostic applications linked to pathogen detection.
 * Team lead in development of industrial collaborations involving creation of RNA capture technology for array detection of cancer biomarkers.  
-* Collaborated with an industrial company (Gene Tools, LLC) in creating morpholino-based RNA capture technology for the detection of pathogen and cancer biomarkers. A lateral flow assay has been developed. A prototype for detection based on laser-induced fluorescence has been developed as well, and the [photo of the prototype](https://yijiaxiong.github.io/lif) is in the research gallery . 
+* Collaborated with an industrial company (Gene Tools, LLC) in creating morpholino-based RNA capture technology for the detection of pathogen and cancer biomarkers. A lateral flow assay has been developed. A few prototypes based on laser-induced fluorescence detection have been built and tested as well. The [photos of the prototypes](https://yijiaxiong.github.io/lif) are in the research gallery . 
 * Investigated protein stabilization in confined biomaterials, including protein-based hydrogel and engineered diatoms biosilica matrix.
 
 ### Research Scientist, Battelle (Richland, WA)
