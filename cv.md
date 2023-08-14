@@ -54,19 +54,18 @@ Highly accomplished Research Assistant Professor with expertise in advanced micr
 
 
 ## Selected Publication (out of 40+)
-1. Xiong Y., Ford, N. R.; Hecht, K. A.; Roesijadi, G.; Squier, T. C., Hydrogel Tethering Enhances Interdomain Stabilization of Single-Chain Antibodies, Bioconjugate Chemistry, 2017, 28 (11), 2804–2814
-2. Xiong, Y., Ford, N. R.; Hecht, K. A.; Roesijadi, G.; Squier, T. C., Dynamic Stabilization of Expressed Proteins in Engineered Diatom Biosilica Matrices. Bioconjugate Chemistry 2016, 27 (5), 1205-1209.
-3. Beech, B. M., Xiong, Y., Boschek, C. B., Baird, C. L., Bigelow, D. J., McAteer, K., and Squier, T. C. (2014) Controlled Activation of Protein Rotational Dynamics Using Smart Hydrogel Tethering, Journal of the American Chemical Society 136, 13134-13137.
-4. Fu, N.; Xiong, Y.; Squier, T. C., Synthesis of a Targeted Biarsenical Cy3-Cy5 Affinity Probe for Super-resolution Fluorescence Imaging. Journal of the American Chemical Society 2012, 134 (45), 18530-18533.
-5. Xiong, Y.; Chen, B.; Shi, L.; Fredrickson, J. K.; Bigelow, D. J.; Squier, T. C., Targeted Protein Degradation of Outer Membrane Decaheme Cytochrome MtrC Metal Reductase in Shewanella oneidensis MR-1 Measured Using Biarsenical Probe CrAsH-EDT2. Biochemistry 2011, 50 (45), 9738-9751.
-6. Cao, B.; Shi, L.; Brown, R. N.; Xiong, Y.; Fredrickson, J. K.; Romine, M. F.; Marshall, M. J.; Lipton, M. S.; Beyenal, H., Extracellular polymeric substances from Shewanella sp. HRCR-1 biofilms: characterization by infrared spectroscopy and proteomics. Environmental Microbiology 2011, 13 (4), 1018-1031.
-7. Cao, H.; Xiong, Y.; Wang, T.; Chen, B.; Squier, T. C.; Mayer, M. U., A Red Cy3-Based Biarsenical Fluorescent Probe Targeted to a Complementary Binding Peptide. J. Am. Chem. Soc., 2007, 129, 28, 8672 - 8673
-8. Xiong, Y.; Chen, B.; Smallwood, H. S.; BieberUrbauer, R. J.; Markille, L. M.; Galeva, N.; Williams, T. D.; Squier, T. C., High-Affinity and Cooperative Binding of Oxidized Calmodulin by Methionine Sulfoxide Reductase. Biochemistry 2006, 45, (49), 14642-14654.
-9. Xiong, Y.; Shi, L.; Chen, B.; Mayer, M. U.; Lower, B. H.; Londer, Y.; Bose, S.; Hochella, M. F.; Fredrickson, J. K.; Squier, T. C., High-Affinity Binding and Direct Electron Transfer to Solid Metals by the Shewanella oneidensis MR-1 Outer Membrane c-type Cytochrome OmcA. Journal of the American Chemical Society 2006, 128, (43), 13978-13979.
-10. Whittier, J. E.; Xiong, Y.; Rechsteiner, M. C.; Squier, T. C., Hsp90 Enhances Degradation of Oxidized Calmodulin by the 20 S Proteasome. Journal of Biological Chemistry 2004, 279, (44), 46135-46142.
-
+1. Xiong, Y., McQuistan, T. J., Stanek, J. W., Summerton, J. E., Mata, J. E., & Squier, T. C. (2018). Detection of unique Ebola virus oligonucleotides using fluorescently-labeled phosphorodiamidate morpholino oligonucleotide probe pairs. Anal Biochem, 2018,557, 84-90. 
+2. Xiong Y., Ford, N. R.; Hecht, K. A.; Roesijadi, G.; Squier, T. C., Hydrogel Tethering Enhances Interdomain Stabilization of Single-Chain Antibodies, Bioconjugate Chemistry, 2017, 28 (11), 2804–2814
+3. Xiong, Y., Ford, N. R.; Hecht, K. A.; Roesijadi, G.; Squier, T. C., Dynamic Stabilization of Expressed Proteins in Engineered Diatom Biosilica Matrices. Bioconjugate Chemistry 2016, 27 (5), 1205-1209.
+4. Beech, B. M., Xiong, Y., Boschek, C. B., Baird, C. L., Bigelow, D. J., McAteer, K., and Squier, T. C. (2014) Controlled Activation of Protein Rotational Dynamics Using Smart Hydrogel Tethering, Journal of the American Chemical Society 136, 13134-13137.
+5. Fu, N.; Xiong, Y.; Squier, T. C., Synthesis of a Targeted Biarsenical Cy3-Cy5 Affinity Probe for Super-resolution Fluorescence Imaging. Journal of the American Chemical Society 2012, 134 (45), 18530-18533.
+6. Xiong, Y.; Chen, B.; Shi, L.; Fredrickson, J. K.; Bigelow, D. J.; Squier, T. C., Targeted Protein Degradation of Outer Membrane Decaheme Cytochrome MtrC Metal Reductase in Shewanella oneidensis MR-1 Measured Using Biarsenical Probe CrAsH-EDT2. Biochemistry 2011, 50 (45), 9738-9751.
+7. Cao, B.; Shi, L.; Brown, R. N.; Xiong, Y.; Fredrickson, J. K.; Romine, M. F.; Marshall, M. J.; Lipton, M. S.; Beyenal, H., Extracellular polymeric substances from Shewanella sp. HRCR-1 biofilms: characterization by infrared spectroscopy and proteomics. Environmental Microbiology 2011, 13 (4), 1018-1031.
+8. Cao, H.; Xiong, Y.; Wang, T.; Chen, B.; Squier, T. C.; Mayer, M. U., A Red Cy3-Based Biarsenical Fluorescent Probe Targeted to a Complementary Binding Peptide. J. Am. Chem. Soc., 2007, 129, 28, 8672 - 8673
+9. Xiong, Y.; Chen, B.; Smallwood, H. S.; BieberUrbauer, R. J.; Markille, L. M.; Galeva, N.; Williams, T. D.; Squier, T. C., High-Affinity and Cooperative Binding of Oxidized Calmodulin by Methionine Sulfoxide Reductase. Biochemistry 2006, 45, (49), 14642-14654.
+10. Xiong, Y.; Shi, L.; Chen, B.; Mayer, M. U.; Lower, B. H.; Londer, Y.; Bose, S.; Hochella, M. F.; Fredrickson, J. K.; Squier, T. C., High-Affinity Binding and Direct Electron Transfer to Solid Metals by the Shewanella oneidensis MR-1 Outer Membrane c-type Cytochrome OmcA. Journal of the American Chemical Society 2006, 128, (43), 13978-13979.
 
 #### Google scholar profile with full publication list:
 [https://scholar.google.com/citations?user=JbrDaPAAAAAJ&hl=en](https://scholar.google.com/citations?user=JbrDaPAAAAAJ&hl=en)
 
-[Home](https://yijiaxiong.github.io)
+[Back to Home](https://yijiaxiong.github.io)
