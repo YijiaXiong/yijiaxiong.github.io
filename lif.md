@@ -5,12 +5,12 @@ Welcome to the realm of pathogen detection.  At the heart of our endeavor lies a
 ## Hardware Innovations
 
 ### Minimal LIF Setup
-Here is the humble beginnings — a minimal LIF setup poised for greatness. Note the CPS1 battery pack provides portability:
+Here is the humble beginnings — a minimal LIF setup built from off-the-shelf parts. Note the CPS1 battery pack provides portability:
 
 ![Minimal LIF Setup](instruments/minilif.JPG)
 
 ### Advanced LIF System
-Progressing to grandeur, we present an improved LIF system. Multiple lasers are built on a manual wheel, coupled with an automatic filter wheel controlled by the data acquisition program:
+Here is an improved LIF system. Multiple lasers are built on a manual wheel, coupled with an automatic filter wheel controlled by the data acquisition program:
 
 ![Advanced LIF System](instruments/minilifpro2.JPG)
 
